@@ -1,1 +1,1 @@
-# SANER2021-DocumentationSmell
+# SANER2021-DocumentationSmell-ReplicationPackage
