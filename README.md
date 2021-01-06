@@ -19,7 +19,7 @@ We conducted a survey of 21 software developers to validate these documentation 
 
 
 ## Benchmark Dataset
-We created a benchmark dataset of 1000 documentations with these 5 types of smells. The benchmark dataset with the features can be found in the 'Benchmark Dataset' folder.
+We created a benchmark dataset of 1000 documentations with these 5 types of smells. The benchmark dataset (with the features) can be found in the 'Benchmark Dataset' folder.
 
 
 ## Automatic Detection of Documentation Smells
