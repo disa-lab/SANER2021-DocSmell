@@ -1,7 +1,7 @@
 # SANER2021-DocumentationSmell-ReplicationPackage
 ## Automatic Detection of Five API Documentation Smells: Practitioners’ Perspectives
 
-# Documentation Smell
+## Documentation Smell
 Documentation smells can be described as bad documentation styles that do not necessarily make a documentation incorrect but make it difficult to understand and use.
 
 
